@@ -2,7 +2,7 @@
 
 **DFG-Labs** is the research and engineering arm of [Digital Fortifications Group](https://dfghq.com), a security-first consulting firm focused on infrastructure hardening, ethical hacking, and privacy-driven solutions.
 
-<img src="https://raw.githubusercontent.com/DFG-Labs/.github/main/profile/logo.png" alt="DFG Logo" width="400" />
+<img src="https://raw.githubusercontent.com/DFG-Labs/.github/main/dfg-logo.png" alt="DFG Logo" width="400" />
 
 ---
 
